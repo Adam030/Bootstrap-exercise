@@ -1,0 +1,53 @@
+.navbar-brand {
+    font-weight: 300;
+}
+ul {
+    word-spacing: 30px;
+}
+.container h5 {
+    color: rgb(92, 84, 84);
+    font-weight: bold;
+}
+.container p {
+   color: rgb(167, 165, 165);
+}
+
+.recent-work {
+    border-bottom: 2px solid rgb(223, 215, 215);
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.row {
+  margin-bottom: 100px;
+  text-align: start;
+}
+.card {
+    margin-bottom: 10px;
+    width: 100%;
+}
+.from-the-blog {
+    border-bottom: 2px solid rgb(223, 215, 215);
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+#icon {
+    width: 100px;
+    display: flex;
+    align-self: center;
+    margin-top: 100px;
+}
+footer {
+    background-color: rgba(20, 19, 19, 0.918);
+    color: white;
+    margin-bottom: -100px !important;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+ul {
+    list-style: none;
+    word-spacing: 3px;
+    padding-left: 0;
+    color: rgb(182, 176, 176);
+}
+
+
